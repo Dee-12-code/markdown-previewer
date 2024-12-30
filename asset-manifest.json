@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dee-12-code/markdown-previewer/static/css/main.5580d3fb.css",
-    "main.js": "/Dee-12-code/markdown-previewer/static/js/main.81580076.js",
-    "static/js/488.c9f633ef.chunk.js": "/Dee-12-code/markdown-previewer/static/js/488.c9f633ef.chunk.js",
-    "index.html": "/Dee-12-code/markdown-previewer/index.html",
-    "main.5580d3fb.css.map": "/Dee-12-code/markdown-previewer/static/css/main.5580d3fb.css.map",
-    "main.81580076.js.map": "/Dee-12-code/markdown-previewer/static/js/main.81580076.js.map",
-    "488.c9f633ef.chunk.js.map": "/Dee-12-code/markdown-previewer/static/js/488.c9f633ef.chunk.js.map"
+    "main.css": "/dee-12-code/markdown-previewer/static/css/main.5580d3fb.css",
+    "main.js": "/dee-12-code/markdown-previewer/static/js/main.2f1c6f41.js",
+    "static/js/488.c9f633ef.chunk.js": "/dee-12-code/markdown-previewer/static/js/488.c9f633ef.chunk.js",
+    "index.html": "/dee-12-code/markdown-previewer/index.html",
+    "main.5580d3fb.css.map": "/dee-12-code/markdown-previewer/static/css/main.5580d3fb.css.map",
+    "main.2f1c6f41.js.map": "/dee-12-code/markdown-previewer/static/js/main.2f1c6f41.js.map",
+    "488.c9f633ef.chunk.js.map": "/dee-12-code/markdown-previewer/static/js/488.c9f633ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5580d3fb.css",
-    "static/js/main.81580076.js"
+    "static/js/main.2f1c6f41.js"
   ]
 }
